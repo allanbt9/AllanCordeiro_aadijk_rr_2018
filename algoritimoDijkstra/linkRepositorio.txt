@@ -1,5 +1,0 @@
-Segue o link do repositório com o ponto extra sobre o Dijkstra
-
-
-
-https://github.com/allanbt9/AllanCordeiro_aadijk_rr_2018.git
